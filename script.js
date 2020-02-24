@@ -79,7 +79,7 @@ function generatePassword() {
     }
   }else{
     // if number is not between 8 to 128 we alert this 
-    alert("plese type between 8 to 128!")
+    alert("please type numbers between 8 to 128!")
     // and reset the game
     reset()
   }
