@@ -26,10 +26,7 @@ function generatePassword() {
   // console.log(passwordLength, numbers, lowerCases, upperCases, symbols);
 
   var typesCount = 0;
-  // var randomNumbers = functionList.getNumbers();
-  // var randomLowerCases = functionList.getLowerCases();
-  // var randomUpperCases = functionList.getUpperCases();
-  // var randomSymbols = functionList.getSymbols();
+
 
   // Generator functions
   var functionList = {
